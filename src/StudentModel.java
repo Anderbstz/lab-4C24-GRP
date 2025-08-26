@@ -3,7 +3,11 @@ public class StudentModel {
     public void sayHello() {
         System.out.println("Hola, soy Deybit, modificando mi clase!");
     }
-    
+
+    public void sayHell() {
+        System.out.println("dengue down");
+    }
+
     private String name;
     private int age;
 
