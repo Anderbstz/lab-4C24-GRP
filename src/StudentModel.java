@@ -1,4 +1,9 @@
 public class StudentModel {
+
+    public void sayHello() {
+        System.out.println("Hola, soy Deybit, modificando mi clase!");
+    }
+    
     private String name;
     private int age;
 
